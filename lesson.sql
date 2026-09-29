@@ -1,5 +1,6 @@
 /*
 Example lesson stub
+made a change here
 */
 
 SELECT
